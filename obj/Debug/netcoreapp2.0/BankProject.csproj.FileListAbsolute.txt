@@ -1,0 +1,11 @@
+C:\Users\MACIEK\source\repos\BankProject\BankProject\bin\Debug\netcoreapp2.0\BankProject.deps.json
+C:\Users\MACIEK\source\repos\BankProject\BankProject\bin\Debug\netcoreapp2.0\BankProject.runtimeconfig.json
+C:\Users\MACIEK\source\repos\BankProject\BankProject\bin\Debug\netcoreapp2.0\BankProject.runtimeconfig.dev.json
+C:\Users\MACIEK\source\repos\BankProject\BankProject\bin\Debug\netcoreapp2.0\BankProject.dll
+C:\Users\MACIEK\source\repos\BankProject\BankProject\bin\Debug\netcoreapp2.0\BankProject.pdb
+C:\Users\MACIEK\source\repos\BankProject\BankProject\obj\Debug\netcoreapp2.0\BankProject.csproj.CoreCompileInputs.cache
+C:\Users\MACIEK\source\repos\BankProject\BankProject\obj\Debug\netcoreapp2.0\BankProject.AssemblyInfoInputs.cache
+C:\Users\MACIEK\source\repos\BankProject\BankProject\obj\Debug\netcoreapp2.0\BankProject.AssemblyInfo.cs
+C:\Users\MACIEK\source\repos\BankProject\BankProject\obj\Debug\netcoreapp2.0\BankProject.dll
+C:\Users\MACIEK\source\repos\BankProject\BankProject\obj\Debug\netcoreapp2.0\BankProject.pdb
+C:\Users\MACIEK\source\repos\BankProject\BankProject\obj\Debug\netcoreapp2.0\BankProject.csprojAssemblyReference.cache
